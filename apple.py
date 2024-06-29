@@ -1,6 +1,4 @@
-"""
-    Plz like I guess? 🚱
-"""
+print ("Enter number of slices of pie")
 
 Int1 = int(input(""))
 try:
